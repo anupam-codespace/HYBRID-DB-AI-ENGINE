@@ -7,7 +7,6 @@ The HYBRID DB AI ENGINE is a modern, responsive web application designed to act 
 The primary focus of this application is to accelerate database architecture and design. Users can expect a highly intuitive interface that simplifies complex schema generation, offering intelligent suggestions for both SQL and NoSQL database structures based on provided context.
 
 ## Key Features
-
 ### Current Capabilities
 * **Intelligent File Processing:** Seamlessly upload and process various file formats (CSV, JSON, PDF, Excel) to extract structural data.
 * **Natural Language Queries:** An interactive chat interface that processes plain English prompts to generate or modify database architectures.
